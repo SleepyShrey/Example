@@ -1,0 +1,1 @@
+Edited a new text in c.txt
